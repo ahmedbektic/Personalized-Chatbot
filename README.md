@@ -2,6 +2,10 @@
 
 A modern chatbot application powered by Google's Gemini AI with customizable response styles and a beautiful dark/light mode interface.
 
+## Screenshot
+
+https://ibb.co/xSDksDc1
+
 ## Features
 
 - **AI-Powered Chat**: Uses Google's Gemini 2.0 Flash model for intelligent conversations
