@@ -1,0 +1,15 @@
+{
+  "name": "gemini-chatbot",
+  "version": "1.0.0",
+  "description": "A MERN stack chatbot using Google's Gemini API",
+  "main": "index.js",
+  "scripts": {
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "cd server && npm start",
+    "client": "cd client && npm start",
+    "install-all": "npm install && cd server && npm install && cd ../client && npm install"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
